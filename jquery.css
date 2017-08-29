@@ -1,0 +1,44 @@
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+
+}
+
+.hidden {
+  display: none;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+#box1 {
+  background: blue;
+}
+
+#box2 {
+  background: green;
+}
+
+img {
+  display: block;
+}
+
+#box1.red {
+  background: red;
+}
+
+#box2.yellow {
+  background: yellow;
+}
+
+.colorful{
+	background: purple;
+}
+
+.dog2{
+	display: none;
+}
