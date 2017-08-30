@@ -58,6 +58,23 @@ $("#box2").hover(function(){
 	$("#box2").addClass("yellow");
 });
 
+$("#button2").click(function(){
+	$(".slide").slideDown("slow", function(){
+
+	});
+});
+
+$("#button1").click(function(){
+	$(".slide").slideUp("slow", function(){
+
+	});
+});
+
+$("#button1").click(function(){
+	$(".dog2").slideUp("slow", function(){
+
+	});
+});
 
 
 $(window).scroll(function() {

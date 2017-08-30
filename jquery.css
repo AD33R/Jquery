@@ -35,8 +35,9 @@ img {
   background: yellow;
 }
 
-.colorful{
+.slide{
 	background: purple;
+  display: none;
 }
 
 .dog2{
